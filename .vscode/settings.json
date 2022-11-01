@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "iosfwd": "cpp",
+        "iterator": "cpp",
+        "__locale": "cpp",
+        "locale": "cpp",
+        "queue": "cpp",
+        "stack": "cpp"
+    }
+}
